@@ -1,0 +1,19 @@
+{
+    "name": "pack/hyx",
+    "description": "hyx'S package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pack\\Hyx\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "huangyuexing",
+            "email": "632716340@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
